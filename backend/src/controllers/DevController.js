@@ -41,3 +41,5 @@ module.exports = {
         return response.json(dev);
     }
 };
+
+// criar controllers: update (nome, avatar, bio, loc, techs), destroy
